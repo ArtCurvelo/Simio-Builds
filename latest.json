@@ -1,9 +1,9 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engine": "4.7.1",
-  "pack_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/SIMIO-0.0.4.pck",
-  "pack_sha256": "cd7070124ef1613957e88d6320a4a388c6ef3900f73b2fbca45c57c7cb49f684",
+  "pack_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/SIMIO-0.0.5.pck",
+  "pack_sha256": "7936d0e34b34a9b28a6adc96a3542c21c586a585f2122e72b6099c3985385652",
   "installer_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/instalacao-manual-necessaria.exe",
-  "sha256": "10b8f479d804ad4ac263ac28c255a7e9d2d037c99607d3faf44cfe4024e24d7f",
-  "notes": "Atualizações baixam só os dados do jogo (.pck), sem .exe. Proteção contra loop de atualização."
+  "sha256": "d7421a76828941b6e0296f73bd4a3aa06a0fd4c920eec83723e370f1e753ac7e",
+  "notes": "Floresta com 371 árvores, escalada por espécie, macaco-aranha pula entre árvores, gorila derruba árvore morta, troca de espécie (1-4), Altar das Raízes."
 }
