@@ -3,7 +3,7 @@
   "engine": "4.7.1",
   "pack_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/SIMIO-0.0.4.pck",
   "pack_sha256": "012a49bb7b73de1463ffa54ce452ac9fd0a84558e707916149e089809540f049",
-  "installer_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/SIMIO-0.0.4-Instalador.exe",
+  "installer_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/instalacao-manual-necessaria.exe",
   "sha256": "55c6824b8ca753dfbc3048dc633db1ba47a2a74be6f4d09e4ef8cf3e7c0bc44a",
   "notes": "Atualizações agora baixam só os dados do jogo (.pck), sem baixar .exe — evita bloqueio do antivírus."
 }
