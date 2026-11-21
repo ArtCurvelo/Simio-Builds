@@ -1,6 +1,6 @@
 {
-  "version": "0.0.2",
-  "installer_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/SIMIO-0.0.2-Instalador.exe",
-  "sha256": "415d0a6e93e48558bcd5a28ec767eb4387f8806f04f4127a0d5e61148de3ddec",
-  "notes": "Primeiro combate: ataques leve e pesado, esquiva, defesa, postura, travar mira, inimigos Corrompidos e o mini-chefe Bruto do Apodrecimento. Atualização automática."
+  "version": "0.0.3",
+  "installer_url": "https://raw.githubusercontent.com/ArtCurvelo/Simio-Builds/main/windows/SIMIO-0.0.3-Instalador.exe",
+  "sha256": "f7a718909b296de000c6d4e74c7d154962249dc715fb0741e3350b943806afbe",
+  "notes": "Bruto do Apodrecimento mais justo para jogar sozinho; ragdoll com física ao morrer."
 }

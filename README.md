@@ -7,4 +7,5 @@ Instaladores do protótipo **SÍMIO: O Trono das Raízes** (Windows). O código-
 
 | Versão | Arquivo | SHA-256 |
 | --- | --- | --- |
-| 0.0.2 | `windows/SIMIO-0.0.2-Instalador.exe` | `415d0a6e93e48558bcd5a28ec767eb4387f8806f04f4127a0d5e61148de3ddec` |
+| 0.0.3 | `windows/SIMIO-0.0.3-Instalador.exe` | `f7a718909b296de000c6d4e74c7d154962249dc715fb0741e3350b943806afbe` |
+| 0.0.2 | (histórico do git) | `415d0a6e93e48558bcd5a28ec767eb4387f8806f04f4127a0d5e61148de3ddec` |
